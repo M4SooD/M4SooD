@@ -26,15 +26,6 @@
 
   <br />
 
-  <div align="center">
-    <a href="https://github.com/M4SooD">
-      <img src="https://github-readme-stats.vercel.app/api?username=M4SooD&amp;show_icons=true&amp;hide_border=true&amp;title_color=00ff99&amp;icon_color=00ff99&amp;text_color=ffffff&amp;bg_color=1c1c22" height="160" alt="stats graph" />
-    </a>
-    <a href="https://github.com/M4SooD">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M4SooD&amp;layout=compact&amp;hide_border=true&amp;title_color=00ff99&amp;text_color=ffffff&amp;bg_color=1c1c22" height="160" alt="languages graph" />
-    </a>
-  </div>
-
   <br />
 
   <h3>🛠️ Tech Stack</h3>
