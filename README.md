@@ -26,8 +26,6 @@
 
   <br />
 
-  <br />
-
   <h3>🛠️ Tech Stack</h3>
   <div>
     <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -43,5 +41,4 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </div>
-
 </div>
