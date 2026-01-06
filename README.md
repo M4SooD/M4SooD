@@ -6,8 +6,8 @@
     Specializing in <strong>React, Next.js, TypeScript</strong>, and building high-performance web applications.
   </p>
   
-  <a href="https://masood-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Check_Out_My_Portfolio-00ff99?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" height="40" />
+  <a href="https://m4sood-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Check_Out_My_Portfolio-00ff99?style=for-the-badge&logo=vercel&logoColor=1c1c22" alt="Portfolio" height="40" />
   </a>
   
   <br /><br />
@@ -28,10 +28,10 @@
 
   <div align="center">
     <a href="https://github.com/M4SooD">
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=M4SooD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1c22&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=M4SooD&show_icons=true&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=1c1c22" alt="Masood's GitHub Stats" />
     </a>
     <a href="https://github.com/M4SooD">
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4SooD&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1c22&title_color=00ff99&text_color=ffffff" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4SooD&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=1c1c22" alt="Top Languages" />
     </a>
   </div>
 
