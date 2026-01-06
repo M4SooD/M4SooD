@@ -28,10 +28,10 @@
 
   <div align="center">
     <a href="https://github.com/M4SooD">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=M4SooD&show_icons=true&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=1c1c22" alt="Masood's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=M4SooD&amp;show_icons=true&amp;hide_border=true&amp;title_color=00ff99&amp;icon_color=00ff99&amp;text_color=ffffff&amp;bg_color=1c1c22" height="160" alt="stats graph" />
     </a>
     <a href="https://github.com/M4SooD">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4SooD&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=1c1c22" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M4SooD&amp;layout=compact&amp;hide_border=true&amp;title_color=00ff99&amp;text_color=ffffff&amp;bg_color=1c1c22" height="160" alt="languages graph" />
     </a>
   </div>
 
